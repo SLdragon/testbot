@@ -1,0 +1,24 @@
+{
+    "appName": "bottest",
+    "projectId": "0e40c599-049e-4d4e-852c-7e393892f5b4",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "capabilities": [
+            "Tab",
+            "Bot"
+        ],
+        "azureResources": [],
+        "activeResourcePlugins": [
+            "fx-resource-frontend-hosting",
+            "fx-resource-bot",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-simple-auth"
+        ]
+    },
+    "activeEnvironment": "dev",
+    "programmingLanguage": "typescript"
+}
